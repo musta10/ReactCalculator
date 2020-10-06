@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Index from './components/Index'
 
 function App() {
   return (
     <div className="App">
-      <h1>calculator simple</h1>
+      <Index/>
     </div>
   );
 }

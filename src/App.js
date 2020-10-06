@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './asset/style.css';
 import Index from './components/Index'
 
 function App() {
